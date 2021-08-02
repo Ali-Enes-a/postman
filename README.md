@@ -5,10 +5,10 @@ aktarabiliyor, bir api’nin çıktısını diğerinin outputu olacak şekilde g
 kaydedip sonra tek bir tık ile çalıştırabiliyorsunuz.</p>
 
 
-<h1>Service Nedir?</h1>
+# Service Nedir?
 Servisler platformdan bağımsız olmak üzere birçok uygulama yada cihazın birbiri ile iletişim kurmalarını sağlayan yapılardır.
 
-<h1>Soap nedir?</h1>
+# Soap Nedir?
 <p>
 İnternet üzerinden küçük miktardaki verileri yada mesajları aktarma protokolüdür.
 SOAP mesajları XML formatındadırlar genellikle HTTP protokolü bazen de TCP/IP protokolü kullanılarak gönderilir.
@@ -16,11 +16,19 @@ SOAP mesajları XML formatındadırlar genellikle HTTP protokolü bazen de TCP/I
 </p>
 
 
-<h1>REST Nedir?</h1>
+# REST Nedir?
 <p>
 REST web servis oluşturmak için kullanılan web servis yöntemlerinden birisidir.
 Programlama dilinden bağımız olarak web servis oluşturmak için kullanılan bir yapıdır.
 HTTP protokolüne ait HTTP yöntemlerini ve HTTP durum kodlarını kullanarak gelen isteklere XML, JSON, CSV vb. şekilde cevap verilir.
+</p>
+
+
+# RESTful Nedir?
+<p>
+RESTful web servisler REST mimarisini temel alarak geliştirilmiştir.
+Client-Server arasındaki veri platform bağımsız ve az yükle yapılır.
+Response olarak XML ve JSON kullanılır.
 </p>
 
 
